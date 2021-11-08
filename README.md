@@ -1,4 +1,4 @@
-# interview-sheduler
+# interview-scheduler
 Django application to find available time slots for interview
 
 ## Project description
